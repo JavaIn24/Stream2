@@ -25,8 +25,5 @@ public class Main {
 
 
 
-//        Stream<Integer> numbers = Stream.of(1, 2, 3, 4, 5, 6, 7, 8, 9);
-//        Optional<Integer> numbers1 =numbers.filter(x -> x % 2== 0).reduce((a1 , a2) -> a1 + a2);
-//        System.out.println(numbers1.get());
     }
 }
